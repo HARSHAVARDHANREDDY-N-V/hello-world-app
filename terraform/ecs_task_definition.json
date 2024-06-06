@@ -1,0 +1,13 @@
+[
+  {
+    "name": "hello-world-container",
+    "image": "harshavardhanareddy/hello-world-app:latest",
+    "essential": true,
+    "portMappings": [
+      {
+        "containerPort": 3000,
+        "hostPort": 3000
+      }
+    ]
+  }
+]
