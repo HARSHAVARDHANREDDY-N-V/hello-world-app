@@ -326,4 +326,21 @@ cd hello-world-app
 ### 9. Regular Maintenance and Updates
 
 - Perform regular maintenance tasks such as patching, updating dependencies, and optimizing resource utilization.
-- Stay informed about AWS ECS/Fargate best practices, new features, and updates to
+- Stay informed about AWS ECS/Fargate best practices, new features, and updates to ensure your application remains secure and optimized.
+
+### Additional Resources
+
+- [AWS ECS Documentation](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html)
+- [Terraform AWS Provider Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
+- [GitHub Actions Documentation](https://docs.github.com/en/actions)
+- [Docker Documentation](https://docs.docker.com/)
+
+---
+
+Feel free to reach out if you have any questions or need further assistance.
+
+Happy coding!
+```
+
+This `README.md` file provides a comprehensive guide for setting up, deploying, and maintaining the "Hello World" Node.js application on AWS ECS/Fargate using Terraform and GitHub Actions.
+
